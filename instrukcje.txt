@@ -1,0 +1,7 @@
+w strukturze Packages masz listę Models
+w niej jest sporo obiektów
+bierz pod uwagę tylko te, które mają Type równy EventElement
+one mają Properties, a w nich jest Text
+to jest pierwsza rzecz do przetłumaczenia
+w properties masz też OutputPins->Connections->Label
+to są opcje wyboru i je też trzeba przetłumaczyć

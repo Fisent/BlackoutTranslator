@@ -3317,7 +3317,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Sara odniosła śmiertelne rany i odeszła z tego świata. Co robimy z ciałem?",
+            "Text": "Sara was damaged mortally and died. What should we do with her body?",
             "ExternalId": "",
             "Position": {
               "x": 250.39999999999998,
@@ -3404,7 +3404,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Wykopanie grobu było czasochłonne, ale przynajmniej mogliśmy godnie pożegnać przyjaciółkę.",
+            "Text": "Diggind the gave took us a long time, but at least we got to say the last goodbye to our friend.",
             "ExternalId": "",
             "Position": {
               "x": 825.0,
@@ -3473,7 +3473,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Sara zmarła z wycieńczenia. Powinniśmy ją pogrzebać.",
+            "Text": "Sara died of exhaustion. We should entomb her.",
             "ExternalId": "",
             "Position": {
               "x": 325.0,
@@ -3560,7 +3560,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Ciężko było wykopać grób bez łopaty, ale przynajmniej pochowaliśmy przyjaciółkę.",
+            "Text": "It was hard to dig a grave without a shovel, but at least we buried her body.",
             "ExternalId": "",
             "Position": {
               "x": 750.0,
@@ -3629,7 +3629,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Sara miała dość dzielenia się znalezionymi zapasami z resztą i postanowiła się od nas odłączyć.",
+            "Text": "#Sara was fed up with sharing her supplies with us, so she split with group and went her own way.",
             "ExternalId": "",
             "Position": {
               "x": 375.0,
@@ -3698,7 +3698,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Pogłębiająca się depresja pchnęła Sarę do samobójstwa.",
+            "Text": "#Sara killed herself due to her worsening depression.",
             "ExternalId": "",
             "Position": {
               "x": 300.0,
@@ -3785,7 +3785,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Pochowaliśmy ciało w płytkim grobie, miejmy nadzieję, że to wystarczy.",
+            "Text": "We entombed the body in the shallow grave, let's hope that it will be enough.",
             "ExternalId": "",
             "Position": {
               "x": 800.0,
@@ -3872,7 +3872,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Gryzoń wygłosił krótką mowę pożegnalną, dzięki której łatwiej będzie się nam pogodzić z odejściem Sary.",
+            "Text": "#Gryzoń made a short farawell speech, that helped us dealing with #Sara death.",
             "ExternalId": "",
             "Position": {
               "x": 1475.0,
@@ -3941,7 +3941,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Mała Anna zmarła w skutek odniesionych ran.",
+            "Text": "Little #Anna died of taken wounds.",
             "ExternalId": "",
             "Position": {
               "x": 375.0,
@@ -4028,7 +4028,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Mały grób dla małej dziewczynki. Będzie nam jej brakowało.",
+            "Text": "Small grave for the little girl. We will miss her.",
             "ExternalId": "",
             "Position": {
               "x": 875.0,
@@ -4115,7 +4115,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Siergiej opowiedział, jak wspólnie z małą czytali komiksy znalezione w jakiś ruinach. Bez niej nie będzie wśród nas wiele radości.",
+            "Text": "Sergiej remembered the time when he and the little girl read comics together. We won't have much happines without her.",
             "ExternalId": "",
             "Position": {
               "x": 1600.0,
@@ -4184,7 +4184,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Organizm Anny nie wytrzymał długotrwałego braku jedzenia. Dziewczynka umarła wycieńczona.",
+            "Text": "#Anna's organism didn't endured prolonged lack of food. The girl died of exhaustion",
             "ExternalId": "",
             "Position": {
               "x": 325.0,
@@ -4271,7 +4271,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Wykopaliśmy mały grób, aby dzikie zwierzęta nie zjadły ciała.",
+            "Text": "We dug a small grave, so wild animals won't eat the body.",
             "ExternalId": "",
             "Position": {
               "x": 800.0,
@@ -4340,7 +4340,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Organizm Anny nie wytrzymał obciążenia i dziewczynka zmarła z wycieńczenia.",
+            "Text": "#Ann's body didn't withstand the burden, and the girl died of exhaustion.",
             "ExternalId": "",
             "Position": {
               "x": 275.0,
@@ -4427,7 +4427,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Śmierć Anny jest przygnębiająca, ale żyjemy w przygnębiającym świecie.",
+            "Text": "#Ann's death is sad, but we live in the sad world.",
             "ExternalId": "",
             "Position": {
               "x": 725.0,
@@ -4496,7 +4496,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Załamana Anna nagle od nas uciekła. Szukaliśmy jej w okolicy, ale nie udało nam się jej odszukać.",
+            "Text": "Depressed #Ann ran away from us. We had searched the whole area, but we didn't find her.",
             "ExternalId": "",
             "Position": {
               "x": 250.0,

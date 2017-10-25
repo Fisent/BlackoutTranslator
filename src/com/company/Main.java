@@ -42,9 +42,23 @@ public class Main {
             }
         }
 
+        int i = 0;
         for (JSONObject j : resultList){
-            System.out.println(j.getJSONObject("Properties").get("Text"));
+            i++;
+            System.out.println(i + ". " + j.getJSONObject("Properties").get("Text"));
+
+            JSONArray outputPins = j.getJSONObject("Properties").getJSONArray("OutputPins");
+
+            for (int x = 0; x<outputPins.length(); x++){
+                if(outputPins.getJSONObject(x).has("Connections")) {
+                    JSONArray connections = outputPins.getJSONObject(x).getJSONArray("Connections");
+                    for (int y = 0; y < connections.length(); y++) {
+                        System.out.println(++i + ". " + connections.getJSONObject(y).getString("Label"));
+                    }
+                }
+            }
         }
+        System.out.println(i);
 
     }
 }
