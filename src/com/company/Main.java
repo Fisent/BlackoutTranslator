@@ -53,7 +53,7 @@ public class Main {
                 if(outputPins.getJSONObject(x).has("Connections")) {
                     JSONArray connections = outputPins.getJSONObject(x).getJSONArray("Connections");
                     for (int y = 0; y < connections.length(); y++) {
-                        System.out.println(++i + ". " + connections.getJSONObject(y).getString("Label"));
+                        System.out.println("    " + ++i + ". " + connections.getJSONObject(y).getString("Label"));
                     }
                 }
             }

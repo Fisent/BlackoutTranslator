@@ -3349,7 +3349,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Zostawiamy ciało.",
+                    "Label": "We should leave the body.",
                     "TargetPin": "0x1000000000003B7",
                     "Target": "0x1000000000003B4"
                   }
@@ -3367,7 +3367,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Trzeba je pochować.",
+                    "Label": "We should bury her.",
                     "TargetPin": "0x1000000000003BB",
                     "Target": "0x1000000000003B8"
                   }
@@ -3436,7 +3436,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Pora ruszać w drogę.",
+                    "Label": "It's time to go.",
                     "TargetPin": "0x1000000000003B7",
                     "Target": "0x1000000000003B4"
                   }
@@ -3505,7 +3505,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Nie ma czasu na grzebanie zwłok, musimy iść dalej.",
+                    "Label": "We have no time to bury the body, we need to go.",
                     "TargetPin": "0x100000000000447",
                     "Target": "0x100000000000444"
                   }
@@ -3523,7 +3523,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Pochowajmy ciało.",
+                    "Label": "Let's bury the body.",
                     "TargetPin": "0x10000000000044E",
                     "Target": "0x10000000000044B"
                   }
@@ -3592,7 +3592,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "W drogę!",
+                    "Label": "Let's go!",
                     "TargetPin": "0x100000000000447",
                     "Target": "0x100000000000444"
                   }
@@ -3661,7 +3661,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Musimy sobie radzić bez niej.",
+                    "Label": "We have to go on without her.",
                     "TargetPin": "0x100000000000439",
                     "Target": "0x100000000000436"
                   }
@@ -3730,7 +3730,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Wszystkim nam jest ciężko, musimy iść dalej.",
+                    "Label": "It's hard for everybody of us, but we need to go on.",
                     "TargetPin": "0x100000000000462",
                     "Target": "0x10000000000045F"
                   }
@@ -3748,7 +3748,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Pochowajmy ciało, żeby nie zjadły go zwierzęta.",
+                    "Label": "We should bury the body, so animals won't eat it.",
                     "TargetPin": "0x100000000000469",
                     "Target": "0x100000000000466"
                   }
@@ -3817,7 +3817,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Musimy iść dalej. W drogę!",
+                    "Label": "We need to keep on. Let's go!",
                     "TargetPin": "0x100000000000462",
                     "Target": "0x10000000000045F"
                   }
@@ -3835,7 +3835,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Gryzoń chciałby coś powiedzieć.",
+                    "Label": "#Gryzoń wants to say something.",
                     "TargetPin": "0x100000000000475",
                     "Target": "0x100000000000472"
                   }
@@ -3904,7 +3904,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Musimy iść dalej. W drogę!",
+                    "Label": "We need to keep going. Let's go!",
                     "TargetPin": "0x100000000000462",
                     "Target": "0x10000000000045F"
                   }
@@ -3973,7 +3973,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Nic tu po nas. Chodźmy dalej.",
+                    "Label": "We can't do anything. Let's  go.",
                     "TargetPin": "0x100000000000490",
                     "Target": "0x10000000000048D"
                   }
@@ -3991,7 +3991,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Musimy ją pochować.",
+                    "Label": "We have to bury her.",
                     "TargetPin": "0x100000000000488",
                     "Target": "0x100000000000485"
                   }
@@ -4060,7 +4060,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Czas ruszać dalej.",
+                    "Label": "It's time to go.",
                     "TargetPin": "0x100000000000490",
                     "Target": "0x10000000000048D"
                   }
@@ -4078,7 +4078,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Siergiej chciałby coś powiedzieć.",
+                    "Label": "Siergiej wants to say something.",
                     "TargetPin": "0x10000000000049F",
                     "Target": "0x10000000000049C"
                   }
@@ -4147,7 +4147,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "W drogę.",
+                    "Label": "Let's go.",
                     "TargetPin": "0x100000000000490",
                     "Target": "0x10000000000048D"
                   }
@@ -4184,7 +4184,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Anna's organism didn't endured prolonged lack of food. The girl died of exhaustion",
+            "Text": "#Anna's body didn't endured prolonged lack of food. The girl died of exhaustion",
             "ExternalId": "",
             "Position": {
               "x": 325.0,
@@ -4216,7 +4216,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "To smutne, ale musimy iść dalej.",
+                    "Label": "It's sad, but we need to keep on.",
                     "TargetPin": "0x1000000000004B3",
                     "Target": "0x1000000000004B0"
                   }
@@ -4234,7 +4234,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Pochowajmy małą.",
+                    "Label": "We should bury the little girl.",
                     "TargetPin": "0x1000000000004BA",
                     "Target": "0x1000000000004B7"
                   }
@@ -4303,7 +4303,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Ruszajmy dalej. Nic tu po nas.",
+                    "Label": "Let's go. We can't do anything more.",
                     "TargetPin": "0x1000000000004B3",
                     "Target": "0x1000000000004B0"
                   }
@@ -4372,7 +4372,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Musimy radzić sobie bez małej. Chodźmy dalej.",
+                    "Label": "We need to keep going without the little girl. Let's go.",
                     "TargetPin": "0x1000000000004CD",
                     "Target": "0x1000000000004CA"
                   }
@@ -4390,7 +4390,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Pochowajmy ciało. Przynajmniej tyle możemy zrobić.",
+                    "Label": "We should bury the body, that's the least we can do.",
                     "TargetPin": "0x1000000000004D4",
                     "Target": "0x1000000000004D1"
                   }
@@ -4459,7 +4459,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Ruszajmy dalej.",
+                    "Label": "Let's keep going.",
                     "TargetPin": "0x1000000000004CD",
                     "Target": "0x1000000000004CA"
                   }
@@ -4528,7 +4528,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Ruszajmy w dalszą drogę, może Anna nas znajdzie.",
+                    "Label": "Let's go, maybe #Ann will find us.",
                     "TargetPin": "0x1000000000004E7",
                     "Target": "0x1000000000004E4"
                   }
@@ -4546,7 +4546,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Przeszukajmy dokładnie pobliską okolicę, musimy ją odszukać.",
+                    "Label": "Let's search the area, we need to find her.",
                     "TargetPin": "0x1000000000004EE",
                     "Target": "0x1000000000004EB"
                   }
@@ -4583,7 +4583,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Udało nam się znaleźć tylko but Anny i ślady krwi. Możliwe, że już nigdy nie zobaczymy dziewczynki.",
+            "Text": "We only found #Ann's shoes and blood stains. It's possible that we will never see the girl again.",
             "ExternalId": "",
             "Position": {
               "x": 750.0,
@@ -4615,7 +4615,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Zrobiliśmy co mogliśmy. Musimy iść dalej, inaczej sami wpadniemy w tarapaty.",
+                    "Label": "We did what we could. We need to keep going, or we will get in trouble.",
                     "TargetPin": "0x1000000000004E7",
                     "Target": "0x1000000000004E4"
                   }
@@ -4652,7 +4652,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Siergiej zbyt mocno oberwał i niestety odszedł z tego świata. Powinniśmy pochować ciało.",
+            "Text": "#Siergiej took too much damage and passed away. We should bury his body.",
             "ExternalId": "",
             "Position": {
               "x": 275.0,
@@ -4684,7 +4684,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Bezpieczniej będzie natychmiast się stąd oddalić.",
+                    "Label": "It will be safer to go away now.",
                     "TargetPin": "0x100000000000508",
                     "Target": "0x100000000000505"
                   }
@@ -4702,7 +4702,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Pochowajmy go.",
+                    "Label": "Let's bury him.",
                     "TargetPin": "0x10000000000050F",
                     "Target": "0x10000000000050C"
                   }
@@ -4739,7 +4739,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Ciężko było wykopać grób dla tak wielkiego faceta, ale dobrze, że pożegnaliśmy go godnie.",
+            "Text": "It was hard to dig a grave for a man this big, but it's good that we .",
             "ExternalId": "",
             "Position": {
               "x": 725.0,
@@ -4771,7 +4771,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "W drogę.",
+                    "Label": "Let's go.",
                     "TargetPin": "0x100000000000508",
                     "Target": "0x100000000000505"
                   }
@@ -4808,7 +4808,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Siergiej nie mógł znieść braku jedzenia. Zabrał większość zapasów i od nas uciekł.",
+            "Text": "#Siergiej couldn't stand the lack of food. He had taken most of our supplies and ran away from us.",
             "ExternalId": "",
             "Position": {
               "x": 325.0,
@@ -4840,7 +4840,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Będzie nam ciężko bez niego.",
+                    "Label": "It will be hard without his help.",
                     "TargetPin": "0x100000000000522",
                     "Target": "0x10000000000051F"
                   }
@@ -4877,7 +4877,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Zmęczenie daje się we znaki. Siergiej stał się bardzo agresywny i wściekły. Postanowił nas zostawić.",
+            "Text": "Constant exhaustion caused #Sergiej to become very aggresive and mad. He decided to leave us.",
             "ExternalId": "",
             "Position": {
               "x": 300.0,
@@ -4909,7 +4909,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Musimy dać sobie rady bez niego.",
+                    "Label": "We need to go on without him.",
                     "TargetPin": "0x100000000000530",
                     "Target": "0x10000000000052D"
                   }
@@ -4946,7 +4946,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Siergier wpadł w furię i rzucił się na nas. Trochę nas pokiereszował, po czym uciekł.",
+            "Text": "#Siergier got mad and attacked us. He mauled us a bit and then ran away.",
             "ExternalId": "",
             "Position": {
               "x": 300.0,
@@ -4978,7 +4978,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Ciężko jest żyć po presją. Może dobrze, że go teraz z nami nie ma.",
+                    "Label": "It's hard to live under pressure. Maybe it's good that he is not in our team",
                     "TargetPin": "0x10000000000053E",
                     "Target": "0x10000000000053B"
                   }
@@ -5015,7 +5015,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Gryzoń odniósł zbyt ciężkie rany i zmarł. Co robimy z ciałem?",
+            "Text": "#Gryzoń was wounded mortally. What should we do with the body?",
             "ExternalId": "",
             "Position": {
               "x": 375.0,
@@ -5047,7 +5047,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Gryzoń nie chciałby, żebyśmy się narażali. Lepiej czym prędzej się stąd oddalmy.",
+                    "Label": "#Gryzoń wouldn't want for us to risk. We should go quick.",
                     "TargetPin": "0x10000000000054C",
                     "Target": "0x100000000000549"
                   }
@@ -5065,7 +5065,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Wykopmy grób i pochowajmy go.",
+                    "Label": "Let's dig the grave and bury him.",
                     "TargetPin": "0x100000000000553",
                     "Target": "0x100000000000550"
                   }
@@ -5102,7 +5102,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Ten świat jest niebezpieczny. Powinniśmy przywyknąć do śmierci, ale czy to w ogóle możliwe?",
+            "Text": "This world is dangerous. We should get used to death, but is it even possible?",
             "ExternalId": "",
             "Position": {
               "x": 925.0,
@@ -5134,7 +5134,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Ruszajmy w dalszą drogę.",
+                    "Label": "Let's go.",
                     "TargetPin": "0x10000000000054C",
                     "Target": "0x100000000000549"
                   }
@@ -5171,7 +5171,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Gryzoń nie mówił nam wcześniej, że ma cukrzycę. Teraz zmarł z niedocukrzenia. Co robimy z ciałem?",
+            "Text": "#Gryzoń had never mentioned that he had diabetes. He died of that illness. What should we do with the body?",
             "ExternalId": "",
             "Position": {
               "x": 325.0,
@@ -5203,7 +5203,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Zostawmy ciało i chodźmy dalej. I tak nie mamy czym wykopać grobu.",
+                    "Label": "We should leave the body and keep going. We don't have tools to dig the grave anyway.",
                     "TargetPin": "0x100000000000566",
                     "Target": "0x100000000000563"
                   }
@@ -5221,7 +5221,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Musimy jakoś pochować ciało, żeby nie dopadły go dzikie zwierzęta.",
+                    "Label": "We have to bury the body somehow, so wild animals won't eat it.",
                     "TargetPin": "0x10000000000056D",
                     "Target": "0x10000000000056A"
                   }
@@ -5258,7 +5258,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Może gdybyśmy znaleźli jakieś zapasy, nie doszłoby do tego. Będzie nam brakowało Gryzonia.",
+            "Text": "Maybe if we had found some supplies, it wouldn't happen. We will miss #Gryzoń.",
             "ExternalId": "",
             "Position": {
               "x": 900.0,
@@ -5290,7 +5290,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Ruszamy w dalszą drogę.",
+                    "Label": "Let's keep on.",
                     "TargetPin": "0x100000000000566",
                     "Target": "0x100000000000563"
                   }
@@ -5327,7 +5327,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Gryzoń nie może dalej iść z wycieńczenia. Jest w kiepskim stanie - może wkrótce umrzeć. Prosi, żebyśmy go zostawili.",
+            "Text": "#Gryzoń can't keep walking because of exhaustion and he might die soon. He asks us to leave him.",
             "ExternalId": "",
             "Position": {
               "x": 400.0,
@@ -5359,7 +5359,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Zostawmy go. Nie możemy się narażać z jego powodu.",
+                    "Label": "Let's go. We can't risk because of him.",
                     "TargetPin": "0x10000000000058E",
                     "Target": "0x10000000000058B"
                   }
