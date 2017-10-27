@@ -5639,7 +5639,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "We found abandoned hospital. The doors and windows are broken, someone must have been here before us.",
+            "Text": "We found an abandoned hospital. The doors and windows are broken, someone must have been here before us.",
             "ExternalId": "",
             "Position": {
               "x": 255.20000000000002,
@@ -6124,7 +6124,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "We didn't have choise, we did it to survive.",
+                    "Label": "We didn't have a choice, we did it to survive.",
                     "TargetPin": "0x10000000000062E",
                     "Target": "0x10000000000062B"
                   }
@@ -15865,7 +15865,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Naszą drogę przecina rwąca rzeka, a okoliczny most jest zawalony. Co powinniśmy zrobić?",
+            "Text": "A wild river is blocking our way, and the only near bridge has collapsed a while ago. What should we do?",
             "ExternalId": "",
             "Position": {
               "x": 350.0,
@@ -15897,7 +15897,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Wyślijmy Sarę na zwiad aby odszukałą płyciznę przez którą da sie przejść.",
+                    "Label": "Let's send #Sara to find a shallow spot through which we will cross the river.",
                     "TargetPin": "0x100000000000ACE",
                     "Target": "0x100000000000ACD"
                   }
@@ -15915,7 +15915,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Gdyby tylko ktoś mógł wybudować nam prowizoryczną kładkę przez most...",
+                    "Label": "If only somebody could quickly build a footbridge...",
                     "TargetPin": "0x100000000000FD9",
                     "Target": "0x100000000000FD6"
                   }
@@ -15933,7 +15933,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Spróbujmy przepłynąć rzekę wpław.",
+                    "Label": "Let's try to swim through the river.",
                     "TargetPin": "0x100000000000FE3",
                     "Target": "0x100000000000FE0"
                   }
@@ -15951,7 +15951,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Musimy nadłożyć drogi i znaleźć inne przejście na drugą stronę.",
+                    "Label": "We need to go a long way about it and find other place to cross.",
                     "TargetPin": "0x100000000000FEC",
                     "Target": "0x100000000000FE9"
                   }
@@ -15988,7 +15988,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Sarze w ciągu kilkunastu minut udaję się odnaleźć płyciznę zdatną do bezpiecznego przebycia.",
+            "Text": "#Sara found a safe shallow spot in less than 20 minutes.",
             "ExternalId": "",
             "Position": {
               "x": 1000.0,
@@ -16020,7 +16020,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Dobrze, że Sara jest z nami.",
+                    "Label": "Good that #Sara is with us.",
                     "TargetPin": "0x100000000000ACA",
                     "Target": "0x100000000000AC9"
                   }
@@ -16089,7 +16089,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Dalej",
+                    "Label": "Next",
                     "TargetPin": "0x100000000001011",
                     "Target": "0x10000000000100E"
                   }
@@ -16126,7 +16126,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Siergiej powoli wchodzi do wody i z trudem utrzymuje się na nogach. Gestem przywołuję resztę drużyny.",
+            "Text": "#Siergiej slowly walks into the river and hardly stand here. He shows us to follow him.",
             "ExternalId": "",
             "Position": {
               "x": 1000.0,
@@ -16163,7 +16163,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Prąd jest zbyt silny... Musimy poświęcić kilka godzin na znalezienie bezpiecznego przejścia.\r\n",
+                    "Label": "The current is too strong... We need to spend next few hours finding a safe place to pass.\r\n",
                     "TargetPin": "0x100000000000FEC",
                     "Target": "0x100000000000FE9"
                   }
@@ -16181,7 +16181,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Spróbujmy przejść na drogą strone.",
+                    "Label": "Let's try to pass to the other side.",
                     "TargetPin": "0x100000000001005",
                     "Target": "0x100000000001002"
                   }
@@ -16218,7 +16218,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Po kilku godzinach udało nam się odnaleźć nieuszkodzony most. Bezpiecznie pokonaliśmy rzekę.",
+            "Text": "After few hours of walking we found a stable bridge. We passed the river safely.",
             "ExternalId": "",
             "Position": {
               "x": 1000.0,
@@ -16250,7 +16250,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Ruszajmy dalej, musimy nadrobić stracony czas.",
+                    "Label": "Let's go, we need to make up the lost time.",
                     "TargetPin": "0x100000000000FF5",
                     "Target": "0x100000000000FF2"
                   }
@@ -16287,7 +16287,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Prąd porywa najpierw Annę, a potem Siergieja, który próbuje złapać dziewczynkę nim ta zostanie przygnieciona mocarnymi połaciami wody. Jego wysiłki spełzają jednak nad niczym gdyż sam także zostaję wciągnięty pod wodę podobnie jak Sara, która w ostatniej chwili wskakuję do wody, aby ratować dwójkę towarzyszy.",
+            "Text": "The current carries off #Ann first and then #Siergiej. He tries to save the girl before she drowns. Sadly both of them dies in the water together with #Sarah, who jumped to water to save the two friends.",
             "ExternalId": "",
             "Position": {
               "x": 1500.0,
@@ -16356,7 +16356,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "W trakcie wędrówki dojrzeliśmy w oddali samotną kobietę, która po chwili szybko przybiegła w naszą stronę. Prosiła ona nas o pomoc dla jej chorej córki, której stan od kilku dni był bardzo ciężki. Potrzebne były medykamenty i żywność.",
+            "Text": "During the travel we saw a woman in the distance. She ran in our way when she spotted us. She asked us to help her daughter, who had been very sick lately. She needed medicines and food.",
             "ExternalId": "",
             "Position": {
               "x": 275.0,
@@ -16388,7 +16388,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "To nie nasza sprawa, nie możemy oddać naszych najpotrzebniejszych rzeczy!",
+                    "Label": "It's not our bussiness, we can't give away our most valuable stuff!",
                     "TargetPin": "0x100000000000FAD",
                     "Target": "0x100000000000FAA"
                   }
@@ -16406,7 +16406,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Powinniśmy jej pomóc, nawet w takich czasach ludzie muszą się wspierać.",
+                    "Label": "We should help her, people should support each other event in times like that.",
                     "TargetPin": "0x100000000000FA6",
                     "Target": "0x100000000000FA3"
                   }
@@ -16424,7 +16424,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Nikt jej nie broni. Zabierzmy jej to co udało się jej zebrać!",
+                    "Label": "She is defenseless. Take all her stuff!",
                     "TargetPin": "0x100000000000FB5",
                     "Target": "0x100000000000FB2"
                   }
@@ -16461,7 +16461,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Kobieta podziękowała nam serdecznie i wyściskała nas wszystkich na pożegnanie. W jej oczach znowu tlił się płomień nadziei.",
+            "Text": "The woman thaked us and hugged us goodbye. We saw hope in her eyes.",
             "ExternalId": "",
             "Position": {
               "x": 900.0,
@@ -16493,7 +16493,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Karma wraca. Może pewnego dnia my będziemy w potrzebie.",
+                    "Label": "Karma comes back. Maybe we will also be in need one day.",
                     "TargetPin": "0x100000000000FC1",
                     "Target": "0x100000000000FBE"
                   }
@@ -16530,7 +16530,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Zrozpaczona kobieta najpierw próbowała stawiać opór ale potem wyrzuciła zebrane przez siebie przedmioty bez dalszej woli walki. W jej oczach widać było smutną, nieprzenikniona pustkę.",
+            "Text": "Despaired woman had tried to resit but after a while she threw out all her things. There was emptiness in her eyes.",
             "ExternalId": "",
             "Position": {
               "x": 901.0,
@@ -16562,7 +16562,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Robimy, co musimy, aby przetrwać.",
+                    "Label": "We do what we must to survive.",
                     "TargetPin": "0x100000000000FC6",
                     "Target": "0x100000000000FC3"
                   }
@@ -16599,7 +16599,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Na drodze natrafiliśmy na starszego mężczyznę przeszukującego wraki samochodów. Gdy nas zauważył, przestraszył się i podniósł ręce do góry.",
+            "Text": "We met and old man on the road. He was searching through car wrecks. When he saw us he got scared and he raised his hands.",
             "ExternalId": "",
             "Position": {
               "x": 425.0,
@@ -16631,7 +16631,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Omińmy go i chodźmy dalej.",
+                    "Label": "We should avoid him and go on.",
                     "TargetPin": "0x1000000000009CC",
                     "Target": "0x1000000000009CB"
                   }
@@ -16649,7 +16649,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Potrzebujemy zapasy. Zabierzmy, co ma!",
+                    "Label": "We need supplies. Let's take what he got!",
                     "TargetPin": "0x1000000000009D9",
                     "Target": "0x1000000000009D8"
                   }
@@ -16667,7 +16667,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Spróbujmy z nim porozmawiać.",
+                    "Label": "We should try talking to him.",
                     "TargetPin": "0x1000000000009D2",
                     "Target": "0x1000000000009D1"
                   }
@@ -16704,7 +16704,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Staruszek miał kilka batonów. Oddał nam je po czym pośpiesznie się oddalił.",
+            "Text": "The old man had few chocolate bars. He gaves them to us and went away quickly.",
             "ExternalId": "",
             "Position": {
               "x": 1225.0,
@@ -16736,7 +16736,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Zrobiliśmy to, aby przetrwać. Nie mieliśmy wyboru.",
+                    "Label": "We didn't have a choice, we did it to survive.",
                     "TargetPin": "0x1000000000009CC",
                     "Target": "0x1000000000009CB"
                   }
@@ -16773,7 +16773,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Staruszek był bardzo nieufny, ale porozmawiał z nami chwilę. Powiedział, że od zawsze mieszkał w tej okolicy i nie zamierza się stąd wynosić, choć coraz trudniej mu znaleźć zapasy. Wskazał nam jeszcze skrót, który znacznie skróci nam drogę., po czym poszedł w swoją stronę.",
+            "Text": "The old man was mistrustful, but he talked with us. He said that he had lived here for his whole life and he didn't want to go away, althought it is hard for him to find food. He shoved us a shortcut that will shorten our way and he went away.",
             "ExternalId": "",
             "Position": {
               "x": 1700.0,
@@ -16805,7 +16805,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "My też powinniśmy ruszać dalej. Dzięki temu skrótowi zaoszczędzimy sporo drogi.",
+                    "Label": "We should also go. The shortcut will save us a lot of time.",
                     "TargetPin": "0x1000000000009CC",
                     "Target": "0x1000000000009CB"
                   }
@@ -16842,7 +16842,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Staruszek znalazł wspólny język z Gryzoniem. Szybko zaczęli rozmawiać o starych samochodach. Widać było, że mężczyźnie od dłuższego czasu brakuje towarzystwa. Po jakimś czasie zaprosił nas do swojego domu, gdzie jego żona gotuje właśnie obiad.",
+            "Text": "The old man and #Siergiej got along well. They started to talk about old cars. It was apparent that the old man could use some more company. After a while he invited us to his house, where his wife is cooking a dinner.",
             "ExternalId": "",
             "Position": {
               "x": 1700.0,
@@ -16874,7 +16874,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Dziękujemy za zaproszenie, ale niestety musimy ruszać w dalszą drogę.",
+                    "Label": "Thanks for the invitation, but we need to move on.",
                     "TargetPin": "0x1000000000009CC",
                     "Target": "0x1000000000009CB"
                   }
@@ -16892,7 +16892,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Chwila odpoczynku dobrze nam zrobi.",
+                    "Label": "A bit of rest will be good for us.",
                     "TargetPin": "0x1000000000009FB",
                     "Target": "0x1000000000009FA"
                   }
@@ -16929,7 +16929,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Starszy mężczyzna zaprowadził nas do swojego domu. Budynek był nieduży, ale całkiem zadbany. W środku starsza kobieta gotowała obiad. Niezwykle się ucieszyła, gdy nas zobaczyła. Krzątając się po kuchni spytała, czego chcemy się napić.",
+            "Text": "The old man took us to his home, The house was small but well-kept. Inside the old woman were cooking dinner. She got very excited for the guests. She asked us what do we want to drink.",
             "ExternalId": "",
             "Position": {
               "x": 2325.0,
@@ -16961,7 +16961,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Poprosimy wody.",
+                    "Label": "Water, please.",
                     "TargetPin": "0x100000000000A07",
                     "Target": "0x100000000000A06"
                   }
@@ -16979,7 +16979,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Napijemy się herbaty.",
+                    "Label": "Could we get some tea.",
                     "TargetPin": "0x100000000000A08",
                     "Target": "0x100000000000A06"
                   }
@@ -16997,7 +16997,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Kawa dobrze nam zrobi.",
+                    "Label": "Coffe would be great.",
                     "TargetPin": "0x100000000000A09",
                     "Target": "0x100000000000A06"
                   }
@@ -17015,7 +17015,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Dziękujemy, nie jesteśmy spragnieni.",
+                    "Label": "Thank you, but we are not thirsty.",
                     "TargetPin": "0x100000000000A0A",
                     "Target": "0x100000000000A06"
                   }
@@ -17052,7 +17052,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Obiad przebiegł w niezwykle miłej atmosferze. Przez chwilę można było poczuć się jak za dawnych czasów, kiedy wszystko było normalne. Niestety, musimy iść dalej.",
+            "Text": "The dinner was very pleasant. For a moment we could feel like in the old times. Sadly we need to go on.",
             "ExternalId": "",
             "Position": {
               "x": 2900.0,
@@ -17099,7 +17099,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Dziękujemy za gościnę. Na nas już pora.",
+                    "Label": "Thank you for your courtesy . It is time for us to go.",
                     "TargetPin": "0x1000000000009CC",
                     "Target": "0x1000000000009CB"
                   }
@@ -17136,7 +17136,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Natrafiliśmy na opuszczony szpital. Drzwi są wyłamane, okna wybite, na pewno ktoś już tu był.",
+            "Text": "We found an abandoned hospital. The doors and windows are broken, someone must have been here before us.",
             "ExternalId": "",
             "Position": {
               "x": 255.20000000000002,
@@ -17168,7 +17168,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Lepiej omińmy budynek. Ktoś niebezpieczny może się w nim ukrywać.",
+                    "Label": "We better avoid the building. There might be something dangerous inside.",
                     "TargetPin": "0x100000000000D0B",
                     "Target": "0x100000000000D0A"
                   }
@@ -17186,7 +17186,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Przeszukajmy budynek. Może znajdziemy leki albo jakieś zapasy.",
+                    "Label": "Let's search the building. Maybe we will find some medicines or supplies.",
                     "TargetPin": "0x100000000000D11",
                     "Target": "0x100000000000D10"
                   }
@@ -17204,7 +17204,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Wyślijmy Sarę na zwiad - niech sprawdzi, czy w budynku nikogo nie ma.",
+                    "Label": "Let's send #Sara to scout  - she will find out whether there is something inside.",
                     "TargetPin": "0x100000000000D1B",
                     "Target": "0x100000000000D1A"
                   }
@@ -17241,7 +17241,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Znaleźliśmy trochę leków. Trafiliśmy też na szczelinę w ścianie, za którą znajdują się paczki z żywnością. Niestety szczelina jest zbyt wąska, by zmieściła się w niej dorosła osoba.",
+            "Text": "We found some medicines. We also found a narrow slid, inside which we can see food rations. The slid is too narrow for an adult person to fit.",
             "ExternalId": "",
             "Position": {
               "x": 1250.0,
@@ -17273,7 +17273,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Lepiej się stąd zbierajmy.",
+                    "Label": "We better get out of here.",
                     "TargetPin": "0x100000000000D0B",
                     "Target": "0x100000000000D0A"
                   }
@@ -17291,7 +17291,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Niech Anna spróbuje wcisnąć się do szczeliny i podać nam zapasy.",
+                    "Label": "#Anna should try to squeeze into it, and get the rations.",
                     "TargetPin": "0x100000000000D2B",
                     "Target": "0x100000000000D2A"
                   }
@@ -17328,7 +17328,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Sara sprawdziła budynek. Wygląda na to, że jakaś większa grupa ma tam kryjówkę, ale aktualnie nikogo nie ma w środku.",
+            "Text": "#Sara searched the building. It seems like a shelter for a group of people, but there is nobody inside now.",
             "ExternalId": "",
             "Position": {
               "x": 625.0,
@@ -17360,7 +17360,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Lepiej chodźmy dalej, ludzie mieszkający w szpitalu mogą w każdej chwili wrócić.",
+                    "Label": "We should go on, people that live in this hospital can return here anytime.",
                     "TargetPin": "0x100000000000D0B",
                     "Target": "0x100000000000D0A"
                   }
@@ -17378,7 +17378,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Przeszukajmy dokładnie budynek, może znajdziemy coś przydatnego.",
+                    "Label": "Let's search the building carefully, maybe we will find something useful.",
                     "TargetPin": "0x100000000000D11",
                     "Target": "0x100000000000D10"
                   }
@@ -17415,7 +17415,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Anna zmieściła się w szczelinie i podała nam zapasy. Z nimi na pewno łatwiej będzie nam przetrwać.",
+            "Text": "#Anna managed to get the rations from the slid without problem. It will be easier to survive with all this food.",
             "ExternalId": "",
             "Position": {
               "x": 1775.0,
@@ -17447,7 +17447,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Zbierajmy się stąd.",
+                    "Label": "Let's go.",
                     "TargetPin": "0x100000000000D0B",
                     "Target": "0x100000000000D0A"
                   }
@@ -17484,7 +17484,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Przed nami pojawiła się sfora wygłodzonych psów. Nie wyglądają przyjaźnie!",
+            "Text": "We met and old man on the road. He was searching through car wrecks. When he saw us he got scared and he raised his hands!",
             "ExternalId": "",
             "Position": {
               "x": 500.0,
