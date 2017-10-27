@@ -6941,7 +6941,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "We used all our medical supplies, but we managed to dress the wounds.",
+            "Text": "We used all our medical supplies, but we managed to dress #Sergiej's wounds.",
             "ExternalId": "",
             "Position": {
               "x": 1800.0,
@@ -17484,7 +17484,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "We met and old man on the road. He was searching through car wrecks. When he saw us he got scared and he raised his hands!",
+            "Text": "The pack of hungry dogs appears before us. They don't look friendly!",
             "ExternalId": "",
             "Position": {
               "x": 500.0,
@@ -17516,7 +17516,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Spróbujmy im uciec!",
+                    "Label": "Run away from them!",
                     "TargetPin": "0x100000000000F43",
                     "Target": "0x100000000000F42"
                   }
@@ -17534,7 +17534,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Rzućmy im trochę jedzenia i uciekajmy!",
+                    "Label": "Throw them some food and run away!",
                     "TargetPin": "0x100000000000F4C",
                     "Target": "0x100000000000F4B"
                   }
@@ -17552,7 +17552,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Niech Siergiej spróbuje je przegonić.",
+                    "Label": "#Siergiej should try to scare them off.",
                     "TargetPin": "0x100000000000F55",
                     "Target": "0x100000000000F54"
                   }
@@ -17570,7 +17570,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Sara zauważyła budynek, w którym możemy się schronić. Biegnijmy do niego.",
+                    "Label": "#Sara found a building that can be our shelter. Run to it.",
                     "TargetPin": "0x100000000000F5F",
                     "Target": "0x100000000000F5E"
                   }
@@ -17607,7 +17607,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Udało nam się uciec przed wściekłą sforą w jednym kawałku, choć psy trochę nas odrapały, a bieg był wyczerpujący.",
+            "Text": "We managed to escape the dogs, but they damaged us. The run was also exhausting.",
             "ExternalId": "",
             "Position": {
               "x": 1450.0,
@@ -17639,7 +17639,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Dobra robota!",
+                    "Label": "Well done!",
                     "TargetPin": "0x100000000000F68",
                     "Target": "0x100000000000F67"
                   }
@@ -17676,7 +17676,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Straciliśmy trochę zapasów i energii, ale udało nam się uciec bez szwanku.",
+            "Text": "We lost some supplies and energy, but we managed to ran away without hurt.",
             "ExternalId": "",
             "Position": {
               "x": 1450.0,
@@ -17708,7 +17708,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Mogliśmy stracić coś więcej niż trochę zapasów.",
+                    "Label": "We could have lost something more than supplies...",
                     "TargetPin": "0x100000000000F68",
                     "Target": "0x100000000000F67"
                   }
@@ -17745,7 +17745,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Siergiej rzucił się na sforę psów. Przegonił je, lecz niestety jest mocno pogryziony i ranny.",
+            "Text": "#Siergiej attacked the pack. He scared them off, but took a lot of wounds.",
             "ExternalId": "",
             "Position": {
               "x": 1200.0,
@@ -17777,7 +17777,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Ruszajmy dalej.",
+                    "Label": "Let's go.",
                     "TargetPin": "0x100000000000F68",
                     "Target": "0x100000000000F67"
                   }
@@ -17795,7 +17795,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Powinniśmy użyć wszelkich dostępnych materiałów aby opatrzyć Siergieja.",
+                    "Label": "We should use our meddical supplies to treat the wounds.",
                     "TargetPin": "0x100000000000F72",
                     "Target": "0x100000000000F71"
                   }
@@ -17832,7 +17832,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Udało nam się schronić w budynku. Musieliśmy odczekać dłuższą chwilę, nim sfora psów się oddaliła, ale przynajmniej jesteśmy bezpieczni.",
+            "Text": "We got to the building. We had to wait a moment for the dog pack to go away, but at least we are safe.",
             "ExternalId": "",
             "Position": {
               "x": 1500.0,
@@ -17864,7 +17864,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Dobra robota, Sara. W drogę.",
+                    "Label": "Good job, #Sara. Let's go.",
                     "TargetPin": "0x100000000000F68",
                     "Target": "0x100000000000F67"
                   }
@@ -17901,7 +17901,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Zużyliśmy co mieliśmy, ale udało się opatrzyć rany Siergieja.",
+            "Text": "We used all our medical supplies, but we managed to dress the #Siergiej's wounds.",
             "ExternalId": "",
             "Position": {
               "x": 1800.0,
@@ -17933,7 +17933,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Dobra robota!",
+                    "Label": "Well done!",
                     "TargetPin": "0x100000000000F68",
                     "Target": "0x100000000000F67"
                   }
