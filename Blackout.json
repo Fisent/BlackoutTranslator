@@ -3629,7 +3629,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Sara was fed up with sharing her supplies with us, so she split with group and went her own way.",
+            "Text": "Sara was fed up with sharing her supplies with us, so she split with group and went her own way.",
             "ExternalId": "",
             "Position": {
               "x": 375.0,
@@ -3698,7 +3698,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Sara killed herself due to her worsening depression.",
+            "Text": "Sara killed herself due to her worsening depression.",
             "ExternalId": "",
             "Position": {
               "x": 300.0,
@@ -3835,7 +3835,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Gryzoń wants to say something.",
+                    "Label": "Alex wants to say something.",
                     "TargetPin": "0x100000000000475",
                     "Target": "0x100000000000472"
                   }
@@ -3872,7 +3872,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Gryzoń made a short farawell speech, that helped us dealing with #Sara death.",
+            "Text": "Alex made a short farawell speech, that helped us dealing with Sara's death.",
             "ExternalId": "",
             "Position": {
               "x": 1475.0,
@@ -3941,7 +3941,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Little #Anna died of taken wounds.",
+            "Text": "Little Anna died of taken wounds.",
             "ExternalId": "",
             "Position": {
               "x": 375.0,
@@ -4115,7 +4115,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Sergiej remembered the time when he and the little girl read comics together. We won't have much happines without her.",
+            "Text": "Siergiej remembered the time when he and the little girl read comics together. We won't have much happines without her.",
             "ExternalId": "",
             "Position": {
               "x": 1600.0,
@@ -4184,7 +4184,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Anna's body didn't endured prolonged lack of food. The girl died of exhaustion",
+            "Text": "Anna's body didn't endured prolonged lack of food. The girl died of exhaustion",
             "ExternalId": "",
             "Position": {
               "x": 325.0,
@@ -4340,7 +4340,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Ann's body didn't withstand the burden, and the girl died of exhaustion.",
+            "Text": "Anna's body didn't withstand the burden, and the girl died of exhaustion.",
             "ExternalId": "",
             "Position": {
               "x": 275.0,
@@ -4427,7 +4427,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Ann's death is sad, but we live in the sad world.",
+            "Text": "Anna's death is sad, but we live in the sad world.",
             "ExternalId": "",
             "Position": {
               "x": 725.0,
@@ -4496,7 +4496,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Depressed #Ann ran away from us. We had searched the whole area, but we didn't find her.",
+            "Text": "Depressed Anna ran away from us. We had searched the whole area, but we didn't find her.",
             "ExternalId": "",
             "Position": {
               "x": 250.0,
@@ -4528,7 +4528,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Let's go, maybe #Ann will find us.",
+                    "Label": "Let's go, maybe Anna will find us.",
                     "TargetPin": "0x1000000000004E7",
                     "Target": "0x1000000000004E4"
                   }
@@ -4583,7 +4583,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "We only found #Ann's shoes and blood stains. It's possible that we will never see the girl again.",
+            "Text": "We only found Anna's shoes and blood stains. It's possible that we will never see the girl again.",
             "ExternalId": "",
             "Position": {
               "x": 750.0,
@@ -4652,7 +4652,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej took too much damage and passed away. We should bury his body.",
+            "Text": "Siergiej took too much damage and passed away. We should bury his body.",
             "ExternalId": "",
             "Position": {
               "x": 275.0,
@@ -4808,7 +4808,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej couldn't stand the lack of food. He had taken most of our supplies and ran away from us.",
+            "Text": "Siergiej couldn't stand the lack of food. He had taken most of our supplies and ran away from us.",
             "ExternalId": "",
             "Position": {
               "x": 325.0,
@@ -4877,7 +4877,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Constant exhaustion caused #Sergiej to become very aggresive and mad. He decided to leave us.",
+            "Text": "Constant exhaustion caused Siergiej to become very aggresive and mad. He decided to leave us.",
             "ExternalId": "",
             "Position": {
               "x": 300.0,
@@ -4946,7 +4946,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergier got mad and attacked us. He mauled us a bit and then ran away.",
+            "Text": "Siergier got mad and attacked us. He mauled us a bit and then ran away.",
             "ExternalId": "",
             "Position": {
               "x": 300.0,
@@ -5015,7 +5015,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Gryzoń was wounded mortally. What should we do with the body?",
+            "Text": "Alex was wounded mortally. What should we do with the body?",
             "ExternalId": "",
             "Position": {
               "x": 375.0,
@@ -5047,7 +5047,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Gryzoń wouldn't want for us to risk. We should go quick.",
+                    "Label": "Alex wouldn't want for us to risk. We should go quick.",
                     "TargetPin": "0x10000000000054C",
                     "Target": "0x100000000000549"
                   }
@@ -5171,7 +5171,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Gryzoń had never mentioned that he had diabetes. He died of that illness. What should we do with the body?",
+            "Text": "Alex had never mentioned that he had diabetes. He died of that illness. What should we do with the body?",
             "ExternalId": "",
             "Position": {
               "x": 325.0,
@@ -5258,7 +5258,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Maybe if we had found some supplies, it wouldn't happen. We will miss #Gryzoń.",
+            "Text": "Maybe if we had found some supplies, it wouldn't happen. We will miss Alex.",
             "ExternalId": "",
             "Position": {
               "x": 900.0,
@@ -5327,7 +5327,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Gryzoń can't walk anymore and he is near death. He asks us to leave him.",
+            "Text": "Alex can't walk anymore and he is near death. He asks us to leave him.",
             "ExternalId": "",
             "Position": {
               "x": 400.0,
@@ -5414,7 +5414,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Gryzoń had been raving for a while, then he died. We buried him, and although sad, we are ready to keep going.",
+            "Text": "Alex had been raving for a while, then he died. We buried him, and although sad, we are ready to keep going.",
             "ExternalId": "",
             "Position": {
               "x": 900.0,
@@ -5483,7 +5483,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Gryzoń killed himself because of depression. What should we do with the body?",
+            "Text": "Alex killed himself because of depression. What should we do with the body?",
             "ExternalId": "",
             "Position": {
               "x": 200.0,
@@ -5515,7 +5515,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Gryzoń had chosen his fate. We have to leave the body and go on.",
+                    "Label": "Alex had chosen his fate. We have to leave the body and go on.",
                     "TargetPin": "0x1000000000005A8",
                     "Target": "0x1000000000005A5"
                   }
@@ -5570,7 +5570,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "Digging grave took us some time, but at least we are sure that animals won't eat #Gryzoń's body.",
+            "Text": "Digging grave took us some time, but at least we are sure that animals won't eat Alex's body.",
             "ExternalId": "",
             "Position": {
               "x": 775.0,
@@ -5707,7 +5707,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Let's send #Sara to scout  - she will find out whether there is something inside.",
+                    "Label": "Let's send Sara to scout  - she will find out whether there is something inside.",
                     "TargetPin": "0x1000000000005F9",
                     "Target": "0x1000000000005F6"
                   }
@@ -5794,7 +5794,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Anna should try to squeeze into it, and get the rations.",
+                    "Label": "Anna should try to squeeze into it, and get the rations.",
                     "TargetPin": "0x10000000000060E",
                     "Target": "0x10000000000060B"
                   }
@@ -5831,7 +5831,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Sara searched the building. It seems like a shelter for a group of people, but there is nobody inside now.",
+            "Text": "Sara searched the building. It seems like a shelter for a group of people, but there is nobody inside now.",
             "ExternalId": "",
             "Position": {
               "x": 625.0,
@@ -5918,7 +5918,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Anna managed to get the rations from the slid without problem. It will be easier to survive with all this food.",
+            "Text": "Anna managed to get the rations from the slid without problem. It will be easier to survive with all this food.",
             "ExternalId": "",
             "Position": {
               "x": 1775.0,
@@ -6230,7 +6230,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "The old man and #Siergiej got along well. They started to talk about old cars. It was apparent that the old man could use some more company. After a while he invited us to his house, where his wife is cooking a dinner.",
+            "Text": "The old man and Siergiej got along well. They started to talk about old cars. It was apparent that the old man could use some more company. After a while he invited us to his house, where his wife is cooking a dinner.",
             "ExternalId": "",
             "Position": {
               "x": 1700.0,
@@ -6592,7 +6592,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Siergiej should try to scare them off.",
+                    "Label": "Siergiej should try to scare them off.",
                     "TargetPin": "0x1000000000006A3",
                     "Target": "0x1000000000006A0"
                   }
@@ -6610,7 +6610,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Sara found a building that can be our shelter. Run to it.",
+                    "Label": "Sara found a building that can be our shelter. Run to it.",
                     "TargetPin": "0x1000000000006AB",
                     "Target": "0x1000000000006A8"
                   }
@@ -6785,7 +6785,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej attacked the pack. He scared them off, but took a lot of wounds.",
+            "Text": "Siergiej attacked the pack. He scared them off, but took a lot of wounds.",
             "ExternalId": "",
             "Position": {
               "x": 1200.0,
@@ -6904,7 +6904,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Good job, #Sara. Let's go.",
+                    "Label": "Good job, Sara. Let's go.",
                     "TargetPin": "0x1000000000006BE",
                     "Target": "0x1000000000006BB"
                   }
@@ -6941,7 +6941,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "We used all our medical supplies, but we managed to dress #Sergiej's wounds.",
+            "Text": "We used all our medical supplies, but we managed to dress Siergiej's wounds.",
             "ExternalId": "",
             "Position": {
               "x": 1800.0,
@@ -7913,7 +7913,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej ended his agony with one short move.",
+            "Text": "Siergiej ended his agony with one short move.",
             "ExternalId": "",
             "Position": {
               "x": 2325.0,
@@ -9457,7 +9457,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "We should send #Sara to scout. Maybe she will find something interesting in the fog.\r\n",
+                    "Label": "We should send Sara to scout. Maybe she will find something interesting in the fog.\r\n",
                     "TargetPin": "0x1000000000008A9",
                     "Target": "0x1000000000008A6"
                   }
@@ -9994,7 +9994,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Let's send #Sara, so she can check it.",
+                    "Label": "Let's send Sara, so she can check it.",
                     "TargetPin": "0x100000000001180",
                     "Target": "0x10000000000117D"
                   }
@@ -10187,7 +10187,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Sara saw that the group of survivors is attacked by bandits. She wan't us to help the attacked.",
+            "Text": "Sara saw that the group of survivors is attacked by bandits. She wan't us to help the attacked.",
             "ExternalId": "",
             "Position": {
               "x": 975.0,
@@ -11922,7 +11922,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Sara should look for the road back.",
+                    "Label": "Sara should look for the road back.",
                     "TargetPin": "0x100000000000DB5",
                     "Target": "0x100000000000DB2"
                   }
@@ -12097,7 +12097,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "After a while #Sara manages to regain the orientation and lead us the right way.",
+            "Text": "After a while Sara manages to regain the orientation and lead us the right way.",
             "ExternalId": "",
             "Position": {
               "x": 1225.0,
@@ -12166,7 +12166,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "After a while of difficult travel #Sara sat down. She is very tired because of the fast pace and needs to rest. What should we do?",
+            "Text": "After a while of difficult travel Sara sat down. She is very tired because of the fast pace and needs to rest. What should we do?",
             "ExternalId": "",
             "Position": {
               "x": -25.0,
@@ -12234,7 +12234,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "There might be a lot of dangers around. We need to find a safe place to rest, #Ana needs to keep on for a while.",
+                    "Label": "There might be a lot of dangers around. We need to find a safe place to rest, Anna needs to keep on for a while.",
                     "TargetPin": "0x100000000000849",
                     "Target": "0x100000000000846"
                   }
@@ -12252,7 +12252,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Siergiej should pick up #Ann and carry her until she will be ready to keep on.",
+                    "Label": "Siergiej should pick up Anna and carry her until she will be ready to keep on.",
                     "TargetPin": "0x100000000000850",
                     "Target": "0x10000000000084D"
                   }
@@ -12289,7 +12289,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Ann managed to walk to the next stop, but her foot became all swollen. She can't walk a long distance today.",
+            "Text": "Anna managed to walk to the next stop, but her foot became all swollen. She can't walk a long distance today.",
             "ExternalId": "",
             "Position": {
               "x": 650.0,
@@ -12427,7 +12427,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Ann managed to walk for a little more so we could set up a camp in secluded place far from the road. A bit of rest caused us to regain energy.",
+            "Text": "Anna managed to walk for a little more so we could set up a camp in secluded place far from the road. A bit of rest caused us to regain energy.",
             "ExternalId": "",
             "Position": {
               "x": 650.0,
@@ -12496,7 +12496,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "After a while of difficult travel #Sara sat down. She is very tired because of the fast pace and needs to rest. What should we do?",
+            "Text": "After a while of difficult travel Sara sat down. She is very tired because of the fast pace and needs to rest. What should we do?",
             "ExternalId": "",
             "Position": {
               "x": 650.0,
@@ -12517,7 +12517,7 @@
             ],
             "OutputPins": [
               {
-                "Text": "#Siergiej: Hop! Arrr... I thought you were lighter!",
+                "Text": "Siergiej: Hop! Arrr... I thought you were lighter!",
                 "Id": "0x100000000000851",
                 "Owner": "0x10000000000084D",
                 "Connections": [
@@ -12565,7 +12565,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "After a while of difficult travel #Sara sat down. She is very tired because of the fast pace and needs to rest. What should we do?",
+            "Text": "After a while of difficult travel Sara sat down. She is very tired because of the fast pace and needs to rest. What should we do?",
             "ExternalId": "",
             "Position": {
               "x": 1025.0,
@@ -12586,7 +12586,7 @@
             ],
             "OutputPins": [
               {
-                "Text": "#Sara: Hold on tight!",
+                "Text": "Sara: Hold on tight!",
                 "Id": "0x1000000000008CD",
                 "Owner": "0x1000000000008CB",
                 "Connections": [
@@ -12634,7 +12634,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej will get tired quciker, but at least #Ann regained energy and got back a good mood.",
+            "Text": "Siergiej will get tired quciker, but at least Anna regained energy and got back a good mood.",
             "ExternalId": "",
             "Position": {
               "x": 1400.0,
@@ -12655,7 +12655,7 @@
             ],
             "OutputPins": [
               {
-                "Text": "#Ann: Yes, I want a piggyback!",
+                "Text": "Anna: Yes, I want a piggyback!",
                 "Id": "0x1000000000008D4",
                 "Owner": "0x1000000000008D2",
                 "Connections": [
@@ -12771,7 +12771,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "We should send #Sara to take a look at them.\r\n",
+                    "Label": "We should send Sara to take a look at them.\r\n",
                     "TargetPin": "0x10000000000091E",
                     "Target": "0x10000000000091B"
                   }
@@ -12982,7 +12982,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Sara told us that the strangers don't have any weapon and that they look more like travelers than anybody dangerous.",
+            "Text": "Sara told us that the strangers don't have any weapon and that they look more like travelers than anybody dangerous.",
             "ExternalId": "",
             "Position": {
               "x": 1225.0,
@@ -13450,7 +13450,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej managed to tear off part of the back doors, and we could see some cans inside. We can try to get inside, but it can take a lot of time.",
+            "Text": "Siergiej managed to tear off part of the back doors, and we could see some cans inside. We can try to get inside, but it can take a lot of time.",
             "ExternalId": "",
             "Position": {
               "x": 1250.0,
@@ -13500,7 +13500,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Ann should try to get out some of the supplies through the slit.",
+                    "Label": "Anna should try to get out some of the supplies through the slit.",
                     "TargetPin": "0x100000000000C33",
                     "Target": "0x100000000000C30"
                   }
@@ -13555,7 +13555,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "After few hours of work, #Siergiej managed to tear off the back doors. He wounded his hand a bit, but we got all the supplies from the truck. Most of the food was spoiled, but we found some cans that were still good and we took them with us.",
+            "Text": "After few hours of work, Siergiej managed to tear off the back doors. He wounded his hand a bit, but we got all the supplies from the truck. Most of the food was spoiled, but we found some cans that were still good and we took them with us.",
             "ExternalId": "",
             "Position": {
               "x": 1975.0,
@@ -13587,7 +13587,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Treat #Sergiej's wounds and go on.",
+                    "Label": "Treat Siergiej's wounds and go on.",
                     "TargetPin": "0x100000000000C17",
                     "Target": "0x100000000000C16"
                   }
@@ -13624,7 +13624,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Ann managed to get out few cans with food, but her hand got wounded by the sharp edges of the slit.",
+            "Text": "Anna managed to get out few cans with food, but her hand got wounded by the sharp edges of the slit.",
             "ExternalId": "",
             "Position": {
               "x": 1975.0,
@@ -14110,7 +14110,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej ended his agony with one short move.",
+            "Text": "Siergiej ended his agony with one short move.",
             "ExternalId": "",
             "Position": {
               "x": 2325.0,
@@ -15897,7 +15897,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Let's send #Sara to find a shallow spot through which we will cross the river.",
+                    "Label": "Let's send Sara to find a shallow spot through which we will cross the river.",
                     "TargetPin": "0x100000000000ACE",
                     "Target": "0x100000000000ACD"
                   }
@@ -15988,7 +15988,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Sara found a safe shallow spot in less than 20 minutes.",
+            "Text": "Sara found a safe shallow spot in less than 20 minutes.",
             "ExternalId": "",
             "Position": {
               "x": 1000.0,
@@ -16020,7 +16020,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Good that #Sara is with us.",
+                    "Label": "Good that Sara is with us.",
                     "TargetPin": "0x100000000000ACA",
                     "Target": "0x100000000000AC9"
                   }
@@ -16126,7 +16126,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej slowly walks into the river and hardly stand here. He shows us to follow him.",
+            "Text": "Siergiej slowly walks into the river and hardly stand here. He shows us to follow him.",
             "ExternalId": "",
             "Position": {
               "x": 1000.0,
@@ -16287,7 +16287,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "The current carries off #Ann first and then #Siergiej. He tries to save the girl before she drowns. Sadly both of them dies in the water together with #Sarah, who jumped to water to save the two friends.",
+            "Text": "The current carries off Anna first and then Siergiej. He tries to save the girl before she drowns. Sadly both of them dies in the water together with Sara, who jumped to water to save the two friends.",
             "ExternalId": "",
             "Position": {
               "x": 1500.0,
@@ -16842,7 +16842,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "The old man and #Siergiej got along well. They started to talk about old cars. It was apparent that the old man could use some more company. After a while he invited us to his house, where his wife is cooking a dinner.",
+            "Text": "The old man and Siergiej got along well. They started to talk about old cars. It was apparent that the old man could use some more company. After a while he invited us to his house, where his wife is cooking a dinner.",
             "ExternalId": "",
             "Position": {
               "x": 1700.0,
@@ -17204,7 +17204,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Let's send #Sara to scout  - she will find out whether there is something inside.",
+                    "Label": "Let's send Sara to scout  - she will find out whether there is something inside.",
                     "TargetPin": "0x100000000000D1B",
                     "Target": "0x100000000000D1A"
                   }
@@ -17291,7 +17291,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Anna should try to squeeze into it, and get the rations.",
+                    "Label": "Anna should try to squeeze into it, and get the rations.",
                     "TargetPin": "0x100000000000D2B",
                     "Target": "0x100000000000D2A"
                   }
@@ -17328,7 +17328,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Sara searched the building. It seems like a shelter for a group of people, but there is nobody inside now.",
+            "Text": "Sara searched the building. It seems like a shelter for a group of people, but there is nobody inside now.",
             "ExternalId": "",
             "Position": {
               "x": 625.0,
@@ -17415,7 +17415,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Anna managed to get the rations from the slid without problem. It will be easier to survive with all this food.",
+            "Text": "Anna managed to get the rations from the slid without problem. It will be easier to survive with all this food.",
             "ExternalId": "",
             "Position": {
               "x": 1775.0,
@@ -17552,7 +17552,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Siergiej should try to scare them off.",
+                    "Label": "Siergiej should try to scare them off.",
                     "TargetPin": "0x100000000000F55",
                     "Target": "0x100000000000F54"
                   }
@@ -17570,7 +17570,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "#Sara found a building that can be our shelter. Run to it.",
+                    "Label": "Sara found a building that can be our shelter. Run to it.",
                     "TargetPin": "0x100000000000F5F",
                     "Target": "0x100000000000F5E"
                   }
@@ -17745,7 +17745,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "#Siergiej attacked the pack. He scared them off, but took a lot of wounds.",
+            "Text": "Siergiej attacked the pack. He scared them off, but took a lot of wounds.",
             "ExternalId": "",
             "Position": {
               "x": 1200.0,
@@ -17864,7 +17864,7 @@
                       "g": 0.75686276,
                       "b": 0.8
                     },
-                    "Label": "Good job, #Sara. Let's go.",
+                    "Label": "Good job, Sara. Let's go.",
                     "TargetPin": "0x100000000000F68",
                     "Target": "0x100000000000F67"
                   }
@@ -17901,7 +17901,7 @@
               "g": 0.431372553,
               "b": 0.0784313753
             },
-            "Text": "We used all our medical supplies, but we managed to dress the #Siergiej's wounds.",
+            "Text": "We used all our medical supplies, but we managed to dress the Siergiej's wounds.",
             "ExternalId": "",
             "Position": {
               "x": 1800.0,
